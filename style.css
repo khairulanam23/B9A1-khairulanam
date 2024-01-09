@@ -22,7 +22,7 @@ hr {
     max-height: 600px;
     margin: 50px auto;
     align-items: center;
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./images/Banner\ Image.png);
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(images/BannerImage.png);
     border-radius: 16px;
     background-size: cover;
     background-repeat: no-repeat;
